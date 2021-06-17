@@ -3,3 +3,5 @@ corrected search-engine-optimization from class to id . replaced .search-engine-
 replaced div tags with landmark tags nav, main,banner and footer tags 
 changed the background color of .benefits to improve contrast
 Removed heading tag from footer and added id for formating.updated CSS to point at new id.
+ Consolidated similar items under one class and to reduce redundency.
+Added information on the title.
