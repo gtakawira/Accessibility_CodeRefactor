@@ -4,4 +4,4 @@ Goal : Refactor an existing site to make it more accessible.
 
 Deployed site link: https://gtakawira.github.io/Accessibility_CodeRefactor/
 
-<img src="./Assets/Accessibility-CodeRefactor.png" width="80%" alt="screenshot"/>
+<img src="Assets/Accessibility-CodeRefactor.png" alt="screenshot"/>
