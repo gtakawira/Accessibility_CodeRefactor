@@ -1,7 +1,7 @@
 # Accessibility_CodeRefactor
-corrected search-engine-optimization from class to id . replaced .search-engine-optimization with #search-engine-optimization in CSS file. This fixed navigation link that was not working.
-replaced div tags with landmark tags nav, main,banner and footer tags 
-changed the background color of .benefits to improve contrast
-Removed heading tag from footer and added id for formating.updated CSS to point at new id.
- Consolidated similar items under one class and to reduce redundency.
-Added information on the title.
+Goal : Refactor an existing site to make it more accessible.
+        Ensure the codebase follows accessibility standards and is optimized for search engines
+
+Deployed site link: https://gtakawira.github.io/Accessibility_CodeRefactor/
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/Accessibility-CodeRefactor.png)
